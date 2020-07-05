@@ -1,4 +1,4 @@
-package com.packag.tictactoekotlin
+package com.packag.calculator
 
 import org.junit.Test
 
